@@ -1,0 +1,5 @@
+ExoChoco : 
+http://miguel.tomasena.free.fr/ProgParContraintes/ProgParContraintes.pdf
+//http://www.i3s.unice.fr/~malapert/thesis/split/chapitre9.pdf
+http://perso.ensta-paristech.fr/~diam/corlab/online/choco/user_guide-3.3.0.pdf
+http://www.choco-solver.org/apidocs/index.html
